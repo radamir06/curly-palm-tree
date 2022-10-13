@@ -1,0 +1,21 @@
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("Natural-White.jpg") ;
+}
+.dws-wrapper{
+    position: absolute
+    top 300 px
+    left: 300 px    
+}
+.boxImg{
+    font-family: Cuprum, Arial, Helvetica, sans-serif;
+    width: 307px;
+    height: 300px;
+    border: 5px solid #389e38
+}
+.boxImg img{
+    height: 300px;
+}
